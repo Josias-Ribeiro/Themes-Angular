@@ -2,6 +2,8 @@
 
 A idéia desse projeto foi utilizar variáveis no CSS global da aplicação, através de classes, e possiblitar o usuário fazer alteração através de um icone da interface.
 
+Utilizado Enums, para alterar icones de temas.
+
 Esse projeto foi criado usando recursos do Angular 2+ e Sass
 
 ```
